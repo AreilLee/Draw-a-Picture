@@ -16,4 +16,4 @@ https://user-images.githubusercontent.com/121281901/210953838-c3208dff-bbde-4f3a
 * I used black and white to draw the picture, is it possible to draw with different color?
 
 ## Acknowledgments
-*[the Technology](https://www.youtube.com/watch?v=OLMqcic-n_I)
+* [the Technology](https://www.youtube.com/watch?v=OLMqcic-n_I)
