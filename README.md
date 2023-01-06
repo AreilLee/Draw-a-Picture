@@ -1,10 +1,10 @@
 # Draw-a-Picture
 Few steps to create a computer drawing video.
 ## Description
-### Installing
+### Installing in cmd
 * pip install canvas 
 * pip install sketchpy
-### I put svg image in the program:
+### Put a svg image in the program:
 ```
 new = canvas.sketch_from_svg("panda.svg")
 ```
